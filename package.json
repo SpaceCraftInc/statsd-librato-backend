@@ -16,7 +16,9 @@
   "engines": {
     "node": ">=0.8"
   },
-  "dependencies": {},
+  "dependencies": {
+      "nodeunit" : "0.9.0"
+  },
   "devDependencies": {},
   "main": "lib/librato.js",
   "scripts": {
